@@ -227,6 +227,7 @@ section {
     position: relative;
     border-radius: .5rem;
     height: 25rem;
+    cursor: pointer;
 }
 
 .servico .box-container .box:hover {
