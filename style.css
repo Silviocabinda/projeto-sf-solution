@@ -332,31 +332,6 @@ button:hover {
     font-family: 'Kanit', sans-serif;
 }
 
-.equipa h2 {
-    text-align: center;
-    font-size: 4rem;
-    margin-top: 0;
-    margin-bottom: 5rem;
-}
-
-.equipa .box-container {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(30rem, 1fr));
-    text-align: center;
-    gap: 2rem;
-}
-
-.equipa .box-container .box img {
-    font-size: 3rem;
-    height: 30rem;
-    width: 25rem;
-}
-
-.equipa .box-container .box h3 {
-    font-size: 2rem;
-    font-family: 'Kanit', sans-serif;
-}
-
 .contacto {
     background: #0f2844;
     width: 100%;
