@@ -189,7 +189,6 @@ section {
     align-items: center;
     flex-direction: column;
     justify-content: center;
-    
 }
 
 .sobre .frase .conteudo p {
@@ -452,11 +451,11 @@ button:hover {
 }
 
 .footer .icons a:nth-child(1) {
-    color: #1b1bce;
+    color: #fe066f;
 }
 
 .footer .icons a:nth-child(2) {
-    color: #fe066f;
+    color: #333;
 }
 
 .footer .icons a:nth-child(3) {
